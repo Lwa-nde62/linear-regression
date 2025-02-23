@@ -1,0 +1,10 @@
+/workspaces/linear-regression/linear_regression_model/target/debug/deps/libavif_serialize-123d97e4a0f5392b.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.2/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.2/src/boxes.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.2/src/constants.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.2/src/writer.rs
+
+/workspaces/linear-regression/linear_regression_model/target/debug/deps/libavif_serialize-123d97e4a0f5392b.rlib: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.2/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.2/src/boxes.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.2/src/constants.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.2/src/writer.rs
+
+/workspaces/linear-regression/linear_regression_model/target/debug/deps/avif_serialize-123d97e4a0f5392b.d: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.2/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.2/src/boxes.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.2/src/constants.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.2/src/writer.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.2/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.2/src/boxes.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.2/src/constants.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.2/src/writer.rs:
